@@ -1,2 +1,12 @@
-.editorconfig
 .vscode
+.editorconfig
+
+.env.local
+.knosys/caches
+
+node_modules
+
+# Lock files
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
